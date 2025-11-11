@@ -1,4 +1,4 @@
-import com.sun.jdi.connect.Connector;
+package br.java.operadores;
 
 public class Operadores {
     public static void main(String[] args) {
